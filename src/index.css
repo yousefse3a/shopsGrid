@@ -1,0 +1,14 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+#searchBar {
+  border-radius: 5px;
+  border: 2px solid #1769aa;
+}
+
+.result {
+  font-size: 0.7rem;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
